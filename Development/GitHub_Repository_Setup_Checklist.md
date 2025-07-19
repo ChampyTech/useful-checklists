@@ -9,6 +9,7 @@
 - [ ] Initialize with a README.md
 - [ ] Add a .gitignore suited to the project (e.g. Node, Python, etc.)
 - [ ] Choose and add a license (MIT, Apache-2.0, GPL-3.0, etc.)
+- [ ] Add some tags
 
 ### Issues
 - [ ] Enable issues in repository settings
