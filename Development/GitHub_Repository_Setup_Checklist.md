@@ -1,5 +1,7 @@
 # ✅ GitHub Repository Setup Checklist
 
+↖️ [Return to the main file](../README.md)
+
 ### Repository Basics
 - [ ] Choose a clear and concise repository name
 - [ ] Add a short and meaningful description
@@ -26,6 +28,7 @@
 - [ ] Contribution guidelines (link to [CONTRIBUTING.md](#contributingmd))
 - [ ] License section
 - [ ] Optional: acknowledgments, screenshots, roadmap, FAQ
+- [ ] Disclaimer (e.g. you are not affiliated with a company)
 
 ### CONTRIBUTING.md
 - [ ] Welcome message to contributors
