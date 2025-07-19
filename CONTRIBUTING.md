@@ -32,3 +32,11 @@ Open a pull request or an issue with your change. Keep it minimal and focused.
 - Don't add spaces to the file or folder name: use underscores instead!
 - Add a "Return to the main file" link
 - Add the new checklist in the main [README.md](README.md) file
+
+## 🙋 Need Help?
+
+If you have questions, feel free to open an issue. We're happy to support new contributors!
+
+---
+
+Thanks again for making the open-source world better! 🌍
