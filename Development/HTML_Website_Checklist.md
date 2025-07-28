@@ -2,7 +2,7 @@
 
 ↖️ [Return to the main file](../README.md)
 
-### <head>
+### `<head>`
 
 - [ ] Add a `<title>` tag with a clear page title
 - [ ] Include meta tags
@@ -14,7 +14,7 @@
 - [ ] Styles file (styles.css): use `<link href="..." rel="stylesheet">`
 - [ ] Link external font or use Google Fonts: use `<link href="..." rel="stylesheet">`
 
-### <body>
+### `<body>`
 
 - [ ] Add a main `<h1>` heading
 - [ ] Create the main content structure (divs, sections, etc.)
