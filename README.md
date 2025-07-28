@@ -15,9 +15,9 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [YouTube Livestream Checklist](Social/YouTube_Livestream_Checklist.md)
   - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
 - [Technology](Technology)
-  - [Samsung Phone Setup Checklist](Samsung_Phone_Setup_Checklist.md)
-  - [Ubuntu Setup Checklist](Ubuntu_Setup_Checklist.md)
-  - [Windows Setup Checklist](Windows_Setup_Checklist.md)
+  - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
+  - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
+  - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
 
 ## ⚠️ Disclaimer
 
