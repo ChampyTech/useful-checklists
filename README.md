@@ -8,6 +8,8 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Development](Development)
   - [GitHub Repository Setup Checklist](Development/GitHub_Repository_Setup_Checklist.md)
+- [Social](Social)
+  - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
 
 ## ⚠️ Disclaimer
 
