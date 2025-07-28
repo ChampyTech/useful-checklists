@@ -40,3 +40,4 @@
 - [ ] Promote the video (optional)
   - [ ] Share on social media
   - [ ] Post in relevant communities
+- [ ] Monitor performance (views, comments, retention)
