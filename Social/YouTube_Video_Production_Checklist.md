@@ -1,0 +1,42 @@
+# ✅ YouTube Video Production Checklist
+
+↖️ [Return to the main file](../README.md)
+
+- [ ] Choose video topic
+- [ ] Do keyword and title research
+- [ ] Write down key points or script
+  - [ ] Hook
+  - [ ] Main content
+  - [ ] Call to action / Outro
+- [ ] Prepare equipment
+  - [ ] Camera / Phone
+  - [ ] Microphone
+  - [ ] Lights
+  - [ ] Tripod
+- [ ] Set up the scene
+  - [ ] Clean background
+  - [ ] Good lighting
+  - [ ] Frame yourself properly (centered, headroom)
+- [ ] Record the video
+  - [ ] Check audio levels
+  - [ ] Speak clearly and naturally
+  - [ ] Look at the camera
+- [ ] Review footage
+  - [ ] Check video and audio quality
+- [ ] Edit the video
+  - [ ] Cut unwanted parts
+  - [ ] Add music / sound effects
+  - [ ] Add text or subtitles
+  - [ ] Adjust volume and colors
+- [ ] Export the video
+  - [ ] Use correct resolution and format (e.g. 1080p, .mp4)
+- [ ] Create thumbnail
+- [ ] Write title, description, and tags
+- [ ] Upload to YouTube
+  - [ ] Add thumbnail
+  - [ ] Choose playlist
+  - [ ] Set visibility (Public, Private, Unlisted)
+  - [ ] Add cards and end screen
+- [ ] Promote the video (optional)
+  - [ ] Share on social media
+  - [ ] Post in relevant communities
