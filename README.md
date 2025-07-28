@@ -7,6 +7,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 ## 📝 Contents
 
 - [Development](Development)
+  - [GitHub Community Standards Checklist](Development/GitHub_Community_Standards_Checklist.md)
   - [GitHub Repository Setup Checklist](Development/GitHub_Repository_Setup_Checklist.md)
 - [Social](Social)
   - [TikTok Video Production Checklist](Social/TikTok_Video_Production_Checklist.md)
