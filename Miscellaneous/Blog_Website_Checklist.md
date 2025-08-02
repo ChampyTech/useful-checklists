@@ -26,7 +26,7 @@
 - [ ] Privacy policy page (especially if using cookies or analytics)
 - [ ] Cookie banner (if required)
 - [ ] License or copyright in footer
-- [ ] “Made with ❤️” or personal note in footer (optional)
+- [ ] "Made with ❤️" or personal note in footer (optional)
 
 ## SEO & Performance
 
