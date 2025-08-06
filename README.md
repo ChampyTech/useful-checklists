@@ -30,6 +30,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
   - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
   - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
+  - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
   - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
   - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
   - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
