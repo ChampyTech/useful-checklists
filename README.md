@@ -1,5 +1,10 @@
 # 🔨 A Curated List of Useful Checklists
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 A curated list of useful checklists for everyday life, productivity, travel, health, and more.
 
 📬 **Want to contribute?** Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an issue. Even small contributions are welcome!
