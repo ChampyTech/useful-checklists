@@ -2,7 +2,7 @@
 
 ↖️ [Return to the main file](../README.md)
 
-## Structure & Design
+### Structure & Design
 
 - [ ] Home page with featured or recent posts
 - [ ] Blog post list or archive page
@@ -28,7 +28,7 @@
 - [ ] License or copyright in footer
 - [ ] "Made with ❤️" or personal note in footer (optional)
 
-## SEO & Performance
+### SEO & Performance
 
 - [ ] Use descriptive and unique URLs (e.g. `/how-to-focus-better`)
 - [ ] Add Open Graph tags for social media sharing
@@ -37,7 +37,7 @@
 - [ ] Use analytics (Google Analytics, Plausible, etc.)
 - [ ] Test page speed (PageSpeed Insights or similar)
 
-## Features
+### Features
 
 - [ ] Search bar
 - [ ] Tags or categories for posts
@@ -45,7 +45,7 @@
 - [ ] Comment system (optional: Disqus, native, etc.)
 - [ ] Share buttons (X, Facebook, LinkedIn, etc.)
 
-## Hosting & Deployment
+### Hosting & Deployment
 
 - [ ] Choose a hosting provider (Netlify, GitHub Pages, Vercel, etc.)
 - [ ] Set up custom domain

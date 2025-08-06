@@ -46,14 +46,14 @@
 - [ ] Add Open Graph tags (optional)
 - [ ] Enable article schema (optional, for SEO)
 
-## Publishing
+### Publishing
 
 - [ ] Set the correct publish date
 - [ ] Assign the correct author (if multiple contributors)
 - [ ] Double-check formatting and layout
 - [ ] Preview the article on desktop and mobile
 
-## After Publishing
+### After Publishing
 
 - [ ] Share on social media (X, LinkedIn, Facebook, etc.)
 - [ ] Send it in newsletter (optional)

@@ -2,7 +2,7 @@
 
 ↖️ [Return to the main file](../README.md)
 
-## Planning
+### Planning
 
 - [ ] Choose the post type (single image, carousel, infographic, etc.)
 - [ ] Define the goal (inform, inspire, entertain, promote, etc.)
@@ -12,7 +12,7 @@
   - [ ] Proper size and resolution (1080x1080px or 1350x1080px)
   - [ ] Consistent with your visual identity
 
-## Content & Caption
+### Content & Caption
 
 - [ ] Write an engaging caption
   - [ ] Hook in the first line
@@ -32,7 +32,7 @@
 - [ ] Double-check formatting and layout
 - [ ] Save post content and visuals for archiving
 
-## Post-Publishing
+### Post-Publishing
 
 - [ ] Reply to comments
 - [ ] Engage with DMs related to the post

@@ -2,7 +2,7 @@
 
 ↖️ [Return to the main file](../README.md)
 
-## Planning & Preparation
+### Planning & Preparation
 
 - [ ] Choose a clear and engaging idea
 - [ ] Define the message or value of the Reel
@@ -17,7 +17,7 @@
 - [ ] Wear consistent or visually appealing outfit (optional)
 - [ ] Ensure your phone has enough battery and storage
 
-## Recording
+### Recording
 
 - [ ] Use good lighting and stable shots
 - [ ] Record in high resolution (1080p minimum)
@@ -25,7 +25,7 @@
 - [ ] Keep transitions smooth if applicable
 - [ ] Capture multiple takes if needed
 
-## Editing
+### Editing
 
 - [ ] Cut boring parts — keep it tight and engaging
 - [ ] Sync actions with music (if applicable)
@@ -36,7 +36,7 @@
 - [ ] Use stickers, effects, or filters (optional)
 - [ ] Add cover frame (use custom thumbnail or choose from video)
 
-## Publishing
+### Publishing
 
 - [ ] Write a short and catchy caption
 - [ ] Add 3–10 relevant hashtags
@@ -47,7 +47,7 @@
 - [ ] Share to story for extra reach
 - [ ] Allow Remix / Duet if relevant
 
-## Post-Publishing
+### Post-Publishing
 
 - [ ] Monitor views, reach, likes, comments, shares, saves
 - [ ] Reply to comments
