@@ -24,6 +24,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Technology](Technology)
   - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
   - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
+  - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
   - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
   - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
   - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
