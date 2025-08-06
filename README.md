@@ -42,6 +42,10 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
   - [Writer PC Setup Checklist](Technology/Writer_PC_Setup_Checklist.md)
 
+## 🙏 Contributing
+
+Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an issue. Even small contributions are welcome!
+
 ## ⚠️ Disclaimer
 
 This project is a curated collection of publicly available checklists shared for educational and productivity purposes. We do not own or guarantee the accuracy, completeness, or continued availability of third-party content linked in this repository. Always review and adapt checklists to your specific needs and verify sources when necessary.
