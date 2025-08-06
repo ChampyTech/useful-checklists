@@ -11,6 +11,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [GitHub Repository Setup Checklist](Development/GitHub_Repository_Setup_Checklist.md)
   - [HTML Website Checklist](Development/HTML_Website_Checklist.md)
 - [Miscellaneous](Miscellaneous)
+  - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
   - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
 - [Social](Social)
   - [Instagram Post Production Checklist](Social/Instagram_Post_Production_Checklist.md)
