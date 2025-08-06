@@ -33,6 +33,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
   - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
   - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
+  - [Writer PC Setup Checklist](Technology/Writer_PC_Setup_Checklist.md)
 
 ## ⚠️ Disclaimer
 
