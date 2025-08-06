@@ -27,6 +27,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
   - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
   - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
+  - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
   - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
   - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
   - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
