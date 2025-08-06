@@ -22,6 +22,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [YouTube Livestream Checklist](Social/YouTube_Livestream_Checklist.md)
   - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
 - [Technology](Technology)
+  - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
   - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
   - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
   - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
