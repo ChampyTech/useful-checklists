@@ -28,6 +28,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
   - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
   - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
+  - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
 
 ## ⚠️ Disclaimer
 
