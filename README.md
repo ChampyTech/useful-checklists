@@ -49,3 +49,7 @@ Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an 
 ## ⚠️ Disclaimer
 
 This project is a curated collection of checklists shared for educational and productivity purposes. Always review and adapt checklists to your specific needs and verify sources when necessary.
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
