@@ -48,7 +48,7 @@ Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an 
 
 ## ⚠️ Disclaimer
 
-This project is a curated collection of checklists shared for educational and productivity purposes. Always review and adapt checklists to your specific needs and verify sources when necessary.
+By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any organizations, professionals, or experts in the fields covered by the checklists mentioned. Although attempts are made to ensure the checklists are comprehensive and current, this collection does not guarantee the accuracy, completeness, or suitability of any checklist for your specific needs, circumstances, or requirements. Industry practices, regulations, standards, legal requirements, and best practices evolve continuously and vary by jurisdiction, which are outside the control of this project. Users implement and follow checklists at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from using any of the provided checklists, including but not limited to project failures, security vulnerabilities, legal non-compliance, missed critical steps, inadequate coverage, professional liability, financial losses, or regulatory violations. Always adapt checklists to your specific context, consult with relevant professionals and experts, verify current regulations and standards, perform thorough testing and validation, and use professional judgment when implementing any checklist in critical applications.
 
 ## 🎫 License
 
