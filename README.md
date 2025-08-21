@@ -9,7 +9,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 📬 **Want to contribute?** Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an issue. Even small contributions are welcome!
 
-## 📝 Contents
+## 🔨 Checklists
 
 - [Development](Development)
   - [GitHub Community Standards Checklist](Development/GitHub_Community_Standards_Checklist.md)
