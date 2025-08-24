@@ -1,4 +1,4 @@
-# ✅ Android Tablet Cleanup Complete Checklist
+# ✅ Android Tablet Cleanup Checklist
 
 ↖️ [Return to the main file](../README.md)
 
