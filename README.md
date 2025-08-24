@@ -21,6 +21,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
   - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
   - [Day in the Hills Checklist](Miscellaneous/Day_in_the_Hills_Checklist.md)
+  - [Day in the Mountains Checklist](Miscellaneous/Day_in_the_Mountains_Checklist.md)
   - [Exam Revision Checklist](Miscellaneous/Exam_Revision_Checklist.md)
   - [Home Swimming Pool Checklist](Miscellaneous/Home_Swimming_Pool_Checklist.md)
   - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
