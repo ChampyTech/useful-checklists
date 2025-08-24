@@ -31,6 +31,8 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [X/Twitter Thread Checklist](Social/Twitter_Thread_Checklist.md)
   - [YouTube Livestream Checklist](Social/YouTube_Livestream_Checklist.md)
   - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
+- [Sport](Sport)
+  - [Walk Checklist](Sport/Walk_Checklist.md)
 - [Technology](Technology)
   - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
   - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
