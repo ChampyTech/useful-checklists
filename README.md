@@ -32,6 +32,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
   - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
   - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
+  - [Lightweight Smartwatch Setup Checklist](Technology/Lightweight_Smartwatch_Setup_Checklist.md)
   - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
   - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
   - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
