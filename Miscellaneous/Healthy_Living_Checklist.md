@@ -4,24 +4,24 @@
 
 ### Nutrition
 
-- [ ] Eat at least 2 servings of vegetables and 2 servings of fruit daily  
-- [ ] Drink 1.5–2 liters of water per day  
-- [ ] Limit processed foods, excess sugar, and alcohol  
+- [ ] Eat balanced meals with vegetables, protein, and whole grains
+- [ ] Limit processed foods and added sugar
+- [ ] Drink enough water throughout the day
 
-### Physical Activity
+### Exercise
 
-- [ ] Do 150 minutes of moderate exercise or 75 minutes of vigorous exercise per week  
-- [ ] Add 2 strength training sessions weekly  
-- [ ] Stretch or do light mobility work every day  
+- [ ] Do at least 30 minutes of physical activity most days
+- [ ] Include both cardio and strength exercises
+- [ ] Stretch or do mobility work regularly
 
-### Sleep & Recovery
+### Mental Health
 
-- [ ] Sleep 7–9 hours each night  
-- [ ] Keep a consistent bedtime and wake-up time  
-- [ ] Avoid screens at least 30 minutes before bed  
+- [ ] Practice stress management (meditation, journaling, or deep breathing)
+- [ ] Take breaks from screens and social media
+- [ ] Maintain healthy relationships and social connections
 
-### Mental & Emotional Wellbeing
+### Rest & Routine
 
-- [ ] Practice a relaxation method (meditation, journaling, or deep breathing)  
-- [ ] Spend time outdoors or in nature weekly  
-- [ ] Nurture relationships with family and friends  
+- [ ] Get 7–9 hours of quality sleep
+- [ ] Keep a consistent sleep and wake-up schedule
+- [ ] Have regular health check-ups
