@@ -34,6 +34,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
 - [Sport](Sport)
   - [Jogging Checklist](Sport/Jogging_Checklist.md)
+  - [Running Checklist](Sport/Running_Checklist.md)
   - [Swimming Checklist](Sport/Swimming_Checklist.md)
   - [Walk Checklist](Sport/Walk_Checklist.md)
 - [Technology](Technology)
