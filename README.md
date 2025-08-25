@@ -14,6 +14,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 ### Development
 
 - [GitHub Community Standards Checklist](useful-checklists/Development/GitHub_Community_Standards_Checklist.md)
+- [GitHub Profile README Checklist](useful-checklists/Development/GitHub_Profile_README_Checklist.md)
 - [GitHub Repository Setup Checklist](useful-checklists/Development/GitHub_Repository_Setup_Checklist.md)
 - [HTML Website Checklist](useful-checklists/Development/HTML_Website_Checklist.md)
 
@@ -21,25 +22,29 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Bathroom Setup Checklist](useful-checklists/Home/Bathroom_Setup_Checklist.md)
 - [Bedroom Setup Checklist](useful-checklists/Home/Bedroom_Setup_Checklist.md)
+- [Car Maintenance Checklist](useful-checklists/Home/Car_Maintenance_Checklist.md)
+- [Dining Room Setup Checklist](useful-checklists/Home/Dining_Room_Setup_Checklist.md)
+- [Gardening Checklist](useful-checklists/Home/Gardening_Checklist.md)
+- [Grocery Shopping Checklist](useful-checklists/Home/Grocery_Shopping_Checklist.md)
 - [Home Office Setup Checklist](useful-checklists/Home/Home_Office_Setup_Checklist.md)
 - [Home Swimming Pool Checklist](useful-checklists/Home/Home_Swimming_Pool_Checklist.md)
 - [Kitchen Setup Checklist](useful-checklists/Home/Kitchen_Setup_Checklist.md)
+- [Living Room Setup Checklist](useful-checklists/Home/Living_Room_Setup_Checklist.md)
+- [Seasonal Home Maintenance Checklist](useful-checklists/Home/Seasonal_Home_Maintenance_Checklist.md)
+- [Weekly Cleaning Checklist](useful-checklists/Home/Weekly_Cleaning_Checklist.md)
 
 ### Life
 
+- [Goal Setting Checklist](useful-checklists/Life/Goal_Setting_Checklist.md)
 - [Healthy Living Checklist](useful-checklists/Life/Healthy_Living_Checklist.md)
 
 ### Miscellaneous
 
+- [Birthday Party Setup Checklist](useful-checklists/Miscellaneous/Birthday_Party_Setup_Checklist.md)
 - [Blog Article Checklist](useful-checklists/Miscellaneous/Blog_Article_Checklist.md)
 - [Blog Website Checklist](useful-checklists/Miscellaneous/Blog_Website_Checklist.md)
-- [Day at the Lake Checklist](useful-checklists/Miscellaneous/Day_at_the_Lake_Checklist.md)
-- [Day in the Hills Checklist](useful-checklists/Miscellaneous/Day_in_the_Hills_Checklist.md)
-- [Day in the Mountains Checklist](useful-checklists/Miscellaneous/Day_in_the_Mountains_Checklist.md)
-- [Exam Revision Checklist](useful-checklists/Miscellaneous/Exam_Revision_Checklist.md)
 - [Hotel Booking Checklist](useful-checklists/Miscellaneous/Hotel_Booking_Checklist.md)
-- [Work Desk Setup Checklist](useful-checklists/Miscellaneous/Work_Desk_Setup_Checklist.md)
-- [Work Office Setup Checklist](useful-checklists/Miscellaneous/Work_Office_Setup_Checklist.md)
+- [Wedding Planning Checklist](useful-checklists/Miscellaneous/Wedding_Planning_Checklist.md)
 
 ### Social
 
@@ -77,6 +82,21 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Windows Setup Checklist](useful-checklists/Technology/Windows_Setup_Checklist.md)
 - [Work PC Setup Checklist](useful-checklists/Technology/Work_PC_Setup_Checklist.md)
 - [Writer PC Setup Checklist](useful-checklists/Technology/Writer_PC_Setup_Checklist.md)
+
+### Travelling
+
+- [Day at the Beach Checklist](useful-checklists/Travelling/Day_at_the_Beach_Checklist.md)
+- [Day at the Lake Checklist](useful-checklists/Travelling/Day_at_the_Lake_Checklist.md)
+- [Day in the Hills Checklist](useful-checklists/Travelling/Day_in_the_Hills_Checklist.md)
+- [Day in the Mountains Checklist](useful-checklists/Travelling/Day_in_the_Mountains_Checklist.md)
+- [Picnic Checklist](useful-checklists/Travelling/Picnic_Checklist.md)
+
+### Work
+
+- [Exam Revision Checklist](useful-checklists/Work/Exam_Revision_Checklist.md)
+- [Meeting or Conference Setup Checklist](useful-checklists/Work/Meeting_or_Conference_Setup_Checklist.md)
+- [Work Desk Setup Checklist](useful-checklists/Work/Work_Desk_Setup_Checklist.md)
+- [Work Office Setup Checklist](useful-checklists/Work/Work_Office_Setup_Checklist.md)
 
 ## 🙏 Contributing
 
