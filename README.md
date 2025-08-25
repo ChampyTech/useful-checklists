@@ -25,13 +25,17 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Bathroom Cleanup Checklist](Home/Bathroom_Cleanup_Checklist.md)
 - [Bathroom Setup Checklist](Home/Bathroom_Setup_Checklist.md)
+- [Bedroom Cleanup Checklist](Home/Bedroom_Cleanup_Checklist.md)
 - [Bedroom Setup Checklist](Home/Bedroom_Setup_Checklist.md)
 - [Car Maintenance Checklist](Home/Car_Maintenance_Checklist.md)
+- [Dining Room Cleanup Checklist](Home/Dining_Room_Cleanup_Checklist.md)
 - [Dining Room Setup Checklist](Home/Dining_Room_Setup_Checklist.md)
 - [Gardening Checklist](Home/Gardening_Checklist.md)
 - [Grocery Shopping Checklist](Home/Grocery_Shopping_Checklist.md)
+- [Home Office Cleanup Checklist](Home/Home_Office_Cleanup_Checklist.md)
 - [Home Office Setup Checklist](Home/Home_Office_Setup_Checklist.md)
 - [Home Swimming Pool Checklist](Home/Home_Swimming_Pool_Checklist.md)
+- [Kitchen Cleanup Checklist](Home/Kitchen_Cleanup_Checklist.md)
 - [Kitchen Setup Checklist](Home/Kitchen_Setup_Checklist.md)
 - [Living Room Cleanup Checklist](Home/Living_Room_Cleanup_Checklist.md)
 - [Living Room Setup Checklist](Home/Living_Room_Setup_Checklist.md)
@@ -106,6 +110,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Work-School
 
+- [Back to School Checklist](Work-School/Back_to_School_Checklist.md)
 - [Email Cleanup Checklist](Work-School/Email_Cleanup_Checklist.md)
 - [End of School Year Checklist](Work-School/End_of_School_Year_Checklist.md)
 - [Exam Revision Checklist](Work-School/Exam_Revision_Checklist.md)
