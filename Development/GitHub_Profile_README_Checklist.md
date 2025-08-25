@@ -2,14 +2,11 @@
 
 ↖️ [Return to the main file](../README.md)
 
-### Basic Info
+### Info
 
 - [ ] Add a short bio (who you are, what you do)
 - [ ] Include profile picture or avatar
 - [ ] Add location and contact info (optional)
-
-### Projects & Highlights
-
 - [ ] Showcase key repositories
 - [ ] Add badges or stats (GitHub streak, languages, contributions)
 - [ ] Highlight recent or popular projects
