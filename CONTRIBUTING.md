@@ -5,11 +5,11 @@ This project is a curated list of helpful checklists: your help makes it better 
 
 ## 📌 What You Can Do
 
-- 🆕 Add a new checklist (productivity, travel, health, etc).
-- 📝 Fix typos, improve formatting or readability.
-- 🧹 Remove broken or low-quality checklists.
-- 📦 Organize checklists into appropriate categories.
-- 🐛 Report issues (e.g. duplicates).
+- 🆕 Add a new checklist (productivity, travel, health, etc)
+- 📝 Fix typos, improve formatting or readability
+- 🧹 Remove broken or low-quality checklists
+- 📦 Organize checklists into appropriate categories
+- 🐛 Report issues (e.g. duplicates)
 
 ## ✅ How to Add a Checklist
 
@@ -25,10 +25,10 @@ Open a pull request or an issue with your change. Keep it minimal and focused.
 
 ## 🛠️ Technical Guidelines
 
-- Only one checklist per file.
-- Avoid duplicates.
-- Keep descriptions short and to the point.
-- Don’t create new folders unless needed.
+- Only one checklist per file
+- Avoid duplicates
+- Keep descriptions short and to the point
+- Don’t create new folders unless needed
 - Don't add spaces to the file or folder name: use underscores instead!
 - Add a "Return to the main file" link
 - Add the new checklist in the main [README.md](README.md) file
