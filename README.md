@@ -18,6 +18,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Life](Life)
   - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
 - [Miscellaneous](Miscellaneous)
+  - [Bathroom Setup Checklist](Miscellaneous/Bathroom_Setup_Checklist.md)
   - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
   - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
   - [Day at the Lake Checklist](Miscellaneous/Day_at_the_Lake_Checklist.md)
