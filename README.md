@@ -19,24 +19,25 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Home
 
+- [Bathroom Setup Checklist](useful-checklists/Home/Bathroom_Setup_Checklist.md)
+- [Bedroom Setup Checklist](useful-checklists/Home/Bedroom_Setup_Checklist.md)
+- [Home Office Setup Checklist](useful-checklists/Home/Home_Office_Setup_Checklist.md)
+- [Home Swimming Pool Checklist](useful-checklists/Home/Home_Swimming_Pool_Checklist.md)
+- [Kitchen Setup Checklist](useful-checklists/Home/Kitchen_Setup_Checklist.md)
+
 ### Life
 
 - [Healthy Living Checklist](useful-checklists/Life/Healthy_Living_Checklist.md)
 
 ### Miscellaneous
 
-- [Bathroom Setup Checklist](useful-checklists/Miscellaneous/Bathroom_Setup_Checklist.md)
-- [Bedroom Setup Checklist](useful-checklists/Miscellaneous/Bedroom_Setup_Checklist.md)
 - [Blog Article Checklist](useful-checklists/Miscellaneous/Blog_Article_Checklist.md)
 - [Blog Website Checklist](useful-checklists/Miscellaneous/Blog_Website_Checklist.md)
 - [Day at the Lake Checklist](useful-checklists/Miscellaneous/Day_at_the_Lake_Checklist.md)
 - [Day in the Hills Checklist](useful-checklists/Miscellaneous/Day_in_the_Hills_Checklist.md)
 - [Day in the Mountains Checklist](useful-checklists/Miscellaneous/Day_in_the_Mountains_Checklist.md)
 - [Exam Revision Checklist](useful-checklists/Miscellaneous/Exam_Revision_Checklist.md)
-- [Home Office Setup Checklist](useful-checklists/Miscellaneous/Home_Office_Setup_Checklist.md)
-- [Home Swimming Pool Checklist](useful-checklists/Miscellaneous/Home_Swimming_Pool_Checklist.md)
 - [Hotel Booking Checklist](useful-checklists/Miscellaneous/Hotel_Booking_Checklist.md)
-- [Kitchen Setup Checklist](useful-checklists/Miscellaneous/Kitchen_Setup_Checklist.md)
 - [Work Desk Setup Checklist](useful-checklists/Miscellaneous/Work_Desk_Setup_Checklist.md)
 - [Work Office Setup Checklist](useful-checklists/Miscellaneous/Work_Office_Setup_Checklist.md)
 
