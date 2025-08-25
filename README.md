@@ -28,6 +28,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Exam Revision Checklist](Miscellaneous/Exam_Revision_Checklist.md)
   - [Home Swimming Pool Checklist](Miscellaneous/Home_Swimming_Pool_Checklist.md)
   - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
+  - [Kitchen Setup Checklist](Miscellaneous/Kitchen_Setup_Checklist.md)
   - [Work Desk Setup Checklist](Miscellaneous/Work_Desk_Setup_Checklist.md)
   - [Work Office Setup Checklist](Miscellaneous/Work_Office_Setup_Checklist.md)
 - [Social](Social)
