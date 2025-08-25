@@ -8,9 +8,6 @@
 - [ ] Archive old emails for reference
 - [ ] Unsubscribe from unwanted newsletters
 - [ ] Create folders or labels for organization
-
-### Ongoing Management
-
 - [ ] Set rules/filters for incoming emails
 - [ ] Flag or mark important emails
 - [ ] Respond to pending messages
