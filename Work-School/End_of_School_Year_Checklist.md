@@ -1,4 +1,4 @@
-# ✅ End-of-School-Year Checklist
+# ✅ End of School Year Checklist
 
 ↖️ [Return to the main file](../README.md)
 
