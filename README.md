@@ -11,57 +11,71 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ## 🔨 Checklists
 
-- [Development](Development)
-  - [GitHub Community Standards Checklist](Development/GitHub_Community_Standards_Checklist.md)
-  - [GitHub Repository Setup Checklist](Development/GitHub_Repository_Setup_Checklist.md)
-  - [HTML Website Checklist](Development/HTML_Website_Checklist.md)
-- [Life](Life)
-  - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
-- [Miscellaneous](Miscellaneous)
-  - [Bathroom Setup Checklist](Miscellaneous/Bathroom_Setup_Checklist.md)
-  - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
-  - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
-  - [Day at the Lake Checklist](Miscellaneous/Day_at_the_Lake_Checklist.md)
-  - [Day in the Hills Checklist](Miscellaneous/Day_in_the_Hills_Checklist.md)
-  - [Day in the Mountains Checklist](Miscellaneous/Day_in_the_Mountains_Checklist.md)
-  - [Home Office Setup Checklist](Miscellaneous/Home_Office_Setup_Checklist.md)
-  - [Exam Revision Checklist](Miscellaneous/Exam_Revision_Checklist.md)
-  - [Home Swimming Pool Checklist](Miscellaneous/Home_Swimming_Pool_Checklist.md)
-  - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
-  - [Kitchen Setup Checklist](Miscellaneous/Kitchen_Setup_Checklist.md)
-  - [Work Desk Setup Checklist](Miscellaneous/Work_Desk_Setup_Checklist.md)
-  - [Work Office Setup Checklist](Miscellaneous/Work_Office_Setup_Checklist.md)
-- [Social](Social)
-  - [Instagram Post Production Checklist](Social/Instagram_Post_Production_Checklist.md)
-  - [Instagram Reel Production Checklist](Social/Instagram_Reel_Production_Checklist.md)
-  - [TikTok Video Production Checklist](Social/TikTok_Video_Production_Checklist.md)
-  - [X/Twitter Post Production Checklist](Social/Twitter_Post_Production_Checklist.md)
-  - [X/Twitter Thread Checklist](Social/Twitter_Thread_Checklist.md)
-  - [YouTube Livestream Checklist](Social/YouTube_Livestream_Checklist.md)
-  - [YouTube Video Production Checklist](Social/YouTube_Video_Production_Checklist.md)
-- [Sport](Sport)
-  - [Jogging Checklist](Sport/Jogging_Checklist.md)
-  - [Running Checklist](Sport/Running_Checklist.md)
-  - [Swimming Checklist](Sport/Swimming_Checklist.md)
-  - [Walk Checklist](Sport/Walk_Checklist.md)
-- [Technology](Technology)
-  - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
-  - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
-  - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
-  - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
-  - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
-  - [Lightweight Smartwatch Setup Checklist](Technology/Lightweight_Smartwatch_Setup_Checklist.md)
-  - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
-  - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
-  - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
-  - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
-  - [Smartwatch Setup Checklist](Technology/Smartwatch_Setup_Checklist.md)
-  - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
-  - [Tablet Cleanup Checklist](Technology/Tablet_Cleanup_Checklist.md)
-  - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
-  - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
-  - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
-  - [Writer PC Setup Checklist](Technology/Writer_PC_Setup_Checklist.md)
+### Development
+
+- [GitHub Community Standards Checklist](useful-checklists/Development/GitHub_Community_Standards_Checklist.md)
+- [GitHub Repository Setup Checklist](useful-checklists/Development/GitHub_Repository_Setup_Checklist.md)
+- [HTML Website Checklist](useful-checklists/Development/HTML_Website_Checklist.md)
+
+### Home
+
+### Life
+
+- [Healthy Living Checklist](useful-checklists/Life/Healthy_Living_Checklist.md)
+
+### Miscellaneous
+
+- [Bathroom Setup Checklist](useful-checklists/Miscellaneous/Bathroom_Setup_Checklist.md)
+- [Bedroom Setup Checklist](useful-checklists/Miscellaneous/Bedroom_Setup_Checklist.md)
+- [Blog Article Checklist](useful-checklists/Miscellaneous/Blog_Article_Checklist.md)
+- [Blog Website Checklist](useful-checklists/Miscellaneous/Blog_Website_Checklist.md)
+- [Day at the Lake Checklist](useful-checklists/Miscellaneous/Day_at_the_Lake_Checklist.md)
+- [Day in the Hills Checklist](useful-checklists/Miscellaneous/Day_in_the_Hills_Checklist.md)
+- [Day in the Mountains Checklist](useful-checklists/Miscellaneous/Day_in_the_Mountains_Checklist.md)
+- [Exam Revision Checklist](useful-checklists/Miscellaneous/Exam_Revision_Checklist.md)
+- [Home Office Setup Checklist](useful-checklists/Miscellaneous/Home_Office_Setup_Checklist.md)
+- [Home Swimming Pool Checklist](useful-checklists/Miscellaneous/Home_Swimming_Pool_Checklist.md)
+- [Hotel Booking Checklist](useful-checklists/Miscellaneous/Hotel_Booking_Checklist.md)
+- [Kitchen Setup Checklist](useful-checklists/Miscellaneous/Kitchen_Setup_Checklist.md)
+- [Work Desk Setup Checklist](useful-checklists/Miscellaneous/Work_Desk_Setup_Checklist.md)
+- [Work Office Setup Checklist](useful-checklists/Miscellaneous/Work_Office_Setup_Checklist.md)
+
+### Social
+
+- [Instagram Post Production Checklist](useful-checklists/Social/Instagram_Post_Production_Checklist.md)
+- [Instagram Reel Production Checklist](useful-checklists/Social/Instagram_Reel_Production_Checklist.md)
+- [TikTok Video Production Checklist](useful-checklists/Social/TikTok_Video_Production_Checklist.md)
+- [Twitter Post Production Checklist](useful-checklists/Social/Twitter_Post_Production_Checklist.md)
+- [Twitter Thread Checklist](useful-checklists/Social/Twitter_Thread_Checklist.md)
+- [YouTube Livestream Checklist](useful-checklists/Social/YouTube_Livestream_Checklist.md)
+- [YouTube Video Production Checklist](useful-checklists/Social/YouTube_Video_Production_Checklist.md)
+
+### Sport
+
+- [Jogging Checklist](useful-checklists/Sport/Jogging_Checklist.md)
+- [Running Checklist](useful-checklists/Sport/Running_Checklist.md)
+- [Swimming Checklist](useful-checklists/Sport/Swimming_Checklist.md)
+- [Walk Checklist](useful-checklists/Sport/Walk_Checklist.md)
+
+### Technology
+
+- [Content Creator PC Setup Checklist](useful-checklists/Technology/Content_Creator_PC_Setup_Checklist.md)
+- [Developer PC Setup Checklist](useful-checklists/Technology/Developer_PC_Setup_Checklist.md)
+- [Dualbooting Checklist](useful-checklists/Technology/Dualbooting_Checklist.md)
+- [Gaming PC Setup Checklist](useful-checklists/Technology/Gaming_PC_Setup_Checklist.md)
+- [Laptop Setup Checklist](useful-checklists/Technology/Laptop_Setup_Checklist.md)
+- [Lightweight Smartwatch Setup Checklist](useful-checklists/Technology/Lightweight_Smartwatch_Setup_Checklist.md)
+- [Minimal PC Setup Checklist](useful-checklists/Technology/Minimal_PC_Setup_Checklist.md)
+- [Music Production PC Setup Checklist](useful-checklists/Technology/Music_Production_PC_Setup_Checklist.md)
+- [New PC Setup Checklist](useful-checklists/Technology/New_PC_Setup_Checklist.md)
+- [Samsung Phone Setup Checklist](useful-checklists/Technology/Samsung_Phone_Setup_Checklist.md)
+- [Smartwatch Setup Checklist](useful-checklists/Technology/Smartwatch_Setup_Checklist.md)
+- [Student Laptop Setup Checklist](useful-checklists/Technology/Student_Laptop_Setup_Checklist.md)
+- [Tablet Cleanup Checklist](useful-checklists/Technology/Tablet_Cleanup_Checklist.md)
+- [Ubuntu Setup Checklist](useful-checklists/Technology/Ubuntu_Setup_Checklist.md)
+- [Windows Setup Checklist](useful-checklists/Technology/Windows_Setup_Checklist.md)
+- [Work PC Setup Checklist](useful-checklists/Technology/Work_PC_Setup_Checklist.md)
+- [Writer PC Setup Checklist](useful-checklists/Technology/Writer_PC_Setup_Checklist.md)
 
 ## 🙏 Contributing
 
