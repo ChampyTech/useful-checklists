@@ -27,6 +27,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
   - [Home Swimming Pool Checklist](Miscellaneous/Home_Swimming_Pool_Checklist.md)
   - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
   - [Work Desk Setup Checklist](Miscellaneous/Work_Desk_Setup_Checklist.md)
+  - [Work Office Setup Checklist](Miscellaneous/Work_Office_Setup_Checklist.md)
 - [Social](Social)
   - [Instagram Post Production Checklist](Social/Instagram_Post_Production_Checklist.md)
   - [Instagram Reel Production Checklist](Social/Instagram_Reel_Production_Checklist.md)
