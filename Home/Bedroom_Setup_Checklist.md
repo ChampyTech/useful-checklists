@@ -28,5 +28,6 @@
 - [ ] Alarm clock or phone charger
 - [ ] Power outlets near bed
 - [ ] TV
-- [ ] Optional: speakers, or reading chair
+- [ ] Optional: speakers
+- [ ] Optional: reading chair
 - [ ] Air circulation (fan, AC, or window access)
