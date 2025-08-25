@@ -23,6 +23,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Home
 
+- [Bathroom Cleanup Checklist](Home/Bathroom_Cleanup_Checklist.md)
 - [Bathroom Setup Checklist](Home/Bathroom_Setup_Checklist.md)
 - [Bedroom Setup Checklist](Home/Bedroom_Setup_Checklist.md)
 - [Car Maintenance Checklist](Home/Car_Maintenance_Checklist.md)
@@ -32,6 +33,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Home Office Setup Checklist](Home/Home_Office_Setup_Checklist.md)
 - [Home Swimming Pool Checklist](Home/Home_Swimming_Pool_Checklist.md)
 - [Kitchen Setup Checklist](Home/Kitchen_Setup_Checklist.md)
+- [Living Room Cleanup Checklist](Home/Living_Room_Cleanup_Checklist.md)
 - [Living Room Setup Checklist](Home/Living_Room_Setup_Checklist.md)
 - [Seasonal Home Maintenance Checklist](Home/Seasonal_Home_Maintenance_Checklist.md)
 - [Weekly Cleaning Checklist](Home/Weekly_Cleaning_Checklist.md)
@@ -40,19 +42,24 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Goal Setting Checklist](Life/Goal_Setting_Checklist.md)
 - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
+- [Photography Gear Checklist](Life/Photography_Gear_Checklist.md)
 
 ### Miscellaneous
 
+- [Bicycle Maintenance Checklist](Miscellaneous/Bicycle_Maintenance_Checklist.md)
 - [Birthday Party Setup Checklist](Miscellaneous/Birthday_Party_Setup_Checklist.md)
 - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
 - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
+- [Gym Workout Checklist](Miscellaneous/Gym_Workout_Checklist.md)
 - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
 - [Wedding Planning Checklist](Miscellaneous/Wedding_Planning_Checklist.md)
+- [Yoga Stretching Routine Checklist](Miscellaneous/Yoga_Stretching_Routine_Checklist.md)
 
 ### Social
 
 - [Instagram Post Production Checklist](Social/Instagram_Post_Production_Checklist.md)
 - [Instagram Reel Production Checklist](Social/Instagram_Reel_Production_Checklist.md)
+- [Streaming Setup Checklist](Social/Streaming_Setup_Checklist.md)
 - [TikTok Video Production Checklist](Social/TikTok_Video_Production_Checklist.md)
 - [Twitter Post Production Checklist](Social/Twitter_Post_Production_Checklist.md)
 - [Twitter Thread Checklist](Social/Twitter_Thread_Checklist.md)
@@ -77,6 +84,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
 - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
 - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
+- [PC Building Checklist](Technology/PC_Building_Checklist.md)
 - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
 - [Smartwatch Setup Checklist](Technology/Smartwatch_Setup_Checklist.md)
 - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
@@ -88,18 +96,22 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Travelling
 
+- [Camping Checklist](Travelling/Camping_Checklist.md)
 - [Day at the Beach Checklist](Travelling/Day_at_the_Beach_Checklist.md)
 - [Day at the Lake Checklist](Travelling/Day_at_the_Lake_Checklist.md)
 - [Day in the Hills Checklist](Travelling/Day_in_the_Hills_Checklist.md)
 - [Day in the Mountains Checklist](Travelling/Day_in_the_Mountains_Checklist.md)
 - [Picnic Checklist](Travelling/Picnic_Checklist.md)
+- [Travel Packing Checklist](Travelling/Travel_Packing_Checklist.md)
 
-### Work
+### Work-School
 
-- [Exam Revision Checklist](Work/Exam_Revision_Checklist.md)
-- [Meeting or Conference Setup Checklist](Work/Meeting_or_Conference_Setup_Checklist.md)
-- [Work Desk Setup Checklist](Work/Work_Desk_Setup_Checklist.md)
-- [Work Office Setup Checklist](Work/Work_Office_Setup_Checklist.md)
+- [Email Cleanup Checklist](Work-School/Email_Cleanup_Checklist.md)
+- [End of School Year Checklist](Work-School/End_of_School_Year_Checklist.md)
+- [Exam Revision Checklist](Work-School/Exam_Revision_Checklist.md)
+- [Meeting or Conference Setup Checklist](Work-School/Meeting_or_Conference_Setup_Checklist.md)
+- [Work Desk Setup Checklist](Work-School/Work_Desk_Setup_Checklist.md)
+- [Work Office Setup Checklist](Work-School/Work_Office_Setup_Checklist.md)
 
 ## 🙏 Contributing
 
