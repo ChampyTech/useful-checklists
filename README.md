@@ -11,6 +11,9 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ## 🔨 Checklists
 
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
 ### Development
 
 - [GitHub Community Standards Checklist](Development/GitHub_Community_Standards_Checklist.md)
