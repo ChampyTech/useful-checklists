@@ -32,6 +32,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Dining Room Setup Checklist](Home/Dining_Room_Setup_Checklist.md)
 - [Gardening Checklist](Home/Gardening_Checklist.md)
 - [Grocery Shopping Checklist](Home/Grocery_Shopping_Checklist.md)
+- [Home Designing Checklist](Home/Home_Designing_Checklist.md)
 - [Home Office Cleanup Checklist](Home/Home_Office_Cleanup_Checklist.md)
 - [Home Office Setup Checklist](Home/Home_Office_Setup_Checklist.md)
 - [Home Swimming Pool Checklist](Home/Home_Swimming_Pool_Checklist.md)
@@ -46,7 +47,6 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Goal Setting Checklist](Life/Goal_Setting_Checklist.md)
 - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
-- [Photography Gear Checklist](Life/Photography_Gear_Checklist.md)
 
 ### Miscellaneous
 
@@ -54,8 +54,10 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Birthday Party Setup Checklist](Miscellaneous/Birthday_Party_Setup_Checklist.md)
 - [Blog Article Checklist](Miscellaneous/Blog_Article_Checklist.md)
 - [Blog Website Checklist](Miscellaneous/Blog_Website_Checklist.md)
+- [E-Bike Maintenance Checklist](Miscellaneous/E-Bike_Maintenance_Checklist.md)
 - [Gym Workout Checklist](Miscellaneous/Gym_Workout_Checklist.md)
 - [Hotel Booking Checklist](Miscellaneous/Hotel_Booking_Checklist.md)
+- [Photography Gear Checklist](Miscellaneous/Photography_Gear_Checklist.md)
 - [Wedding Planning Checklist](Miscellaneous/Wedding_Planning_Checklist.md)
 - [Yoga Stretching Routine Checklist](Miscellaneous/Yoga_Stretching_Routine_Checklist.md)
 
@@ -82,11 +84,13 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
 - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
 - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
+- [E-Reader Cleanup Checklist](Technology/E-Reader_Cleanup_Checklist.md)
 - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
 - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
 - [Lightweight Smartwatch Setup Checklist](Technology/Lightweight_Smartwatch_Setup_Checklist.md)
 - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
 - [Music Production PC Setup Checklist](Technology/Music_Production_PC_Setup_Checklist.md)
+- [New E-Reader Research Checklist](Technology/New_E-Reader_Research_Checklist.md)
 - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
 - [PC Building Checklist](Technology/PC_Building_Checklist.md)
 - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
@@ -94,6 +98,8 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
 - [Tablet Cleanup Checklist](Technology/Tablet_Cleanup_Checklist.md)
 - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
+- [WhatsApp Group Setup Checklist](Technology/WhatsApp_Group_Setup_Checklist.md)
+- [WhatsApp Settings Setup Checklist](Technology/WhatsApp_Settings_Setup_Checklist.md)
 - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
 - [Work PC Setup Checklist](Technology/Work_PC_Setup_Checklist.md)
 - [Writer PC Setup Checklist](Technology/Writer_PC_Setup_Checklist.md)
