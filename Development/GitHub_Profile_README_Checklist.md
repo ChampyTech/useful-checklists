@@ -10,9 +10,6 @@
 - [ ] Showcase key repositories
 - [ ] Add badges or stats (GitHub streak, languages, contributions)
 - [ ] Highlight recent or popular projects
-
-### Organization & Sections
-
 - [ ] Use headings for clarity (About, Projects, Contact)
 - [ ] Add links to social media, personal website, or portfolio
 - [ ] Optional: include GIFs or images for visual appeal
