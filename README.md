@@ -46,16 +46,21 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Home Designing Checklist](Home/Home_Designing_Checklist.md)
 - [Home Office Cleanup Checklist](Home/Home_Office_Cleanup_Checklist.md)
 - [Home Office Setup Checklist](Home/Home_Office_Setup_Checklist.md)
+- [Home Restyling Checklist](Home/Home_Restyling_Checklist.md)
 - [Home Swimming Pool Checklist](Home/Home_Swimming_Pool_Checklist.md)
 - [Kitchen Cleanup Checklist](Home/Kitchen_Cleanup_Checklist.md)
 - [Kitchen Setup Checklist](Home/Kitchen_Setup_Checklist.md)
 - [Living Room Cleanup Checklist](Home/Living_Room_Cleanup_Checklist.md)
 - [Living Room Setup Checklist](Home/Living_Room_Setup_Checklist.md)
+- [Meal Prep Checklist](Home/Meal_Prep_Checklist.md)
+- [Physical Library Cleanup Checklist](Home/Physical_Library_Cleanup_Checklist.md)
+- [Physical Library Setup Checklist](Home/Physical_Library_Setup_Checklist.md)
 - [Seasonal Home Maintenance Checklist](Home/Seasonal_Home_Maintenance_Checklist.md)
 - [Weekly Cleaning Checklist](Home/Weekly_Cleaning_Checklist.md)
 
 ### Life
 
+- [GTD Method Setup Checklist](Life/GTD_Method_Setup_Checklist.md)
 - [Goal Setting Checklist](Life/Goal_Setting_Checklist.md)
 - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
 
@@ -74,6 +79,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Social
 
+- [Discord Server Channels Checklist](Social/Discord_Server_Channels_Checklist.md)
 - [Discord Server Cleanup Checklist](Social/Discord_Server_Cleanup_Checklist.md)
 - [Discord Server Roles Checklist](Social/Discord_Server_Roles_Checklist.md)
 - [Discord Server Setup Checklist](Social/Discord_Server_Setup_Checklist.md)
@@ -97,7 +103,9 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 ### Technology
 
 - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
+- [Desktop Cleanup Checklist](Technology/Desktop_Cleanup_Checklist.md)
 - [Developer PC Setup Checklist](Technology/Developer_PC_Setup_Checklist.md)
+- [Downloads Folder Cleanup Checklist](Technology/Downloads_Folder_Cleanup_Checklist.md)
 - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
 - [E-Reader Cleanup Checklist](Technology/E-Reader_Cleanup_Checklist.md)
 - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
@@ -107,6 +115,8 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Google Chrome Setup Checklist](Technology/Google_Chrome_Setup_Checklist.md)
 - [Google Contacts Cleanup Checklist](Technology/Google_Contacts_Cleanup_Checklist.md)
 - [Google Drive Cleanup Checklist](Technology/Google_Drive_Cleanup_Checklist.md)
+- [Google Drive For School Setup Checklist](Technology/Google_Drive_For_School_Setup_Checklist.md)
+- [Google Drive For Work Setup Checklist](Technology/Google_Drive_For_Work_Setup_Checklist.md)
 - [Google Keep Cleanup Checklist](Technology/Google_Keep_Cleanup_Checklist.md)
 - [Google Maps Setup Checklist](Technology/Google_Maps_Setup_Checklist.md)
 - [Google Photos Cleanup Checklist](Technology/Google_Photos_Cleanup_Checklist.md)
@@ -117,6 +127,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [New E-Reader Research Checklist](Technology/New_E-Reader_Research_Checklist.md)
 - [New PC Setup Checklist](Technology/New_PC_Setup_Checklist.md)
 - [PC Building Checklist](Technology/PC_Building_Checklist.md)
+- [Personal Google Drive Setup Checklist](Technology/Personal_Google_Drive_Setup_Checklist.md)
 - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
 - [Smartwatch Setup Checklist](Technology/Smartwatch_Setup_Checklist.md)
 - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
@@ -143,12 +154,26 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 - [Back to School Checklist](Work-School/Back_to_School_Checklist.md)
 - [Email Cleanup Checklist](Work-School/Email_Cleanup_Checklist.md)
+- [Email Setup Checklist](Work-School/Email_Setup_Checklist.md)
 - [End of School Year Checklist](Work-School/End_of_School_Year_Checklist.md)
 - [Exam Revision Checklist](Work-School/Exam_Revision_Checklist.md)
 - [Gmail Inbox Cleanup Checklist](Work-School/Gmail_Inbox_Cleanup_Checklist.md)
+- [Gmail Setup Checklist](Work-School/Gmail_Setup_Checklist.md)
+- [Homework Tracking Checklist](Work-School/Homework_Tracking_Checklist.md)
 - [Meeting or Conference Setup Checklist](Work-School/Meeting_or_Conference_Setup_Checklist.md)
+- [School Backpack Checklist](Work-School/School_Backpack_Checklist.md)
+- [School Backpack Research Checklist](Work-School/School_Backpack_Research_Checklist.md)
+- [School Email Setup Checklist](Work-School/School_Email_Setup_Checklist.md)
+- [School Notebook Cleanup Checklist](Work-School/School_Notebook_Cleanup_Checklist.md)
+- [School Notes Organization Checklist](Work-School/School_Notes_Organization_Checklist.md)
+- [School PC Setup Checklist](Work-School/School_PC_Setup_Checklist.md)
+- [School Tablet Setup Checklist](Work-School/School_Tablet_Setup_Checklist.md)
+- [Work Backpack Research Checklist](Work-School/Work_Backpack_Research_Checklist.md)
 - [Work Desk Setup Checklist](Work-School/Work_Desk_Setup_Checklist.md)
+- [Work Email Setup Checklist](Work-School/Work_Email_Setup_Checklist.md)
 - [Work Office Setup Checklist](Work-School/Work_Office_Setup_Checklist.md)
+- [Work PC Setup Checklist](Work-School/Work_PC_Setup_Checklist.md)
+- [Work Tablet Setup Checklist](Work-School/Work_Tablet_Setup_Checklist.md)
 
 ## 🙏 Contributing
 
