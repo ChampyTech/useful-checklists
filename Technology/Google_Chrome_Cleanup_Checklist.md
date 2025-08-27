@@ -8,7 +8,7 @@
 - [ ] Remove stored passwords you no longer use
 - [ ] Review autofill entries (addresses, payment methods)
 
-### Extensions & Add-ons
+### Extensions
 - [ ] Remove unused or suspicious extensions
 - [ ] Update the extensions you keep
 - [ ] Reorder extensions for quick access
