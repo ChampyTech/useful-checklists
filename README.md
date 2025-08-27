@@ -16,10 +16,21 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Development
 
-- [GitHub Community Standards Checklist](Development/GitHub_Community_Standards_Checklist.md)
+- [GitHub Actions Setup Checklist](Development/GitHub_Actions_Setup_Checklist.md)
+- [GitHub Bug Report Checklist](Development/GitHub_Bug_Report_Checklist.md)
+- [GitHub Code Review Checklist](Development/GitHub_Code_Review_Checklist.md)
+- [GitHub Issues Management Checklist](Development/GitHub_Issues_Management_Checklist.md)
+- [GitHub PR Review Checklist](Development/GitHub_PR_Review_Checklist.md)
+- [GitHub PRs Management Checklist](Development/GitHub_PRs_Management_Checklist.md)
 - [GitHub Profile README Checklist](Development/GitHub_Profile_README_Checklist.md)
+- [GitHub Repository Archiving Checklist](Development/GitHub_Repository_Archiving_Checklist.md)
+- [GitHub Repository Documentation Checklist](Development/GitHub_Repository_Documentation_Checklist.md)
+- [GitHub Repository Release Checklist](Development/GitHub_Repository_Release_Checklist.md)
+- [GitHub Repository Restyling Checklist](Development/GitHub_Repository_Restyling_Checklist.md)
+- [GitHub Repository Security Checklist](Development/GitHub_Repository_Security_Checklist.md)
 - [GitHub Repository Setup Checklist](Development/GitHub_Repository_Setup_Checklist.md)
 - [HTML Website Checklist](Development/HTML_Website_Checklist.md)
+- [Open Source Contribution Checklist](Development/Open_Source_Contribution_Checklist.md)
 
 ### Home
 
@@ -63,8 +74,12 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Social
 
+- [Discord Server Cleanup Checklist](Social/Discord_Server_Cleanup_Checklist.md)
+- [Discord Server Roles Checklist](Social/Discord_Server_Roles_Checklist.md)
+- [Discord Server Setup Checklist](Social/Discord_Server_Setup_Checklist.md)
 - [Instagram Post Production Checklist](Social/Instagram_Post_Production_Checklist.md)
 - [Instagram Reel Production Checklist](Social/Instagram_Reel_Production_Checklist.md)
+- [New YouTube Channel Checklist](Social/New_YouTube_Channel_Checklist.md)
 - [Streaming Setup Checklist](Social/Streaming_Setup_Checklist.md)
 - [TikTok Video Production Checklist](Social/TikTok_Video_Production_Checklist.md)
 - [Twitter Post Production Checklist](Social/Twitter_Post_Production_Checklist.md)
@@ -86,6 +101,15 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Dualbooting Checklist](Technology/Dualbooting_Checklist.md)
 - [E-Reader Cleanup Checklist](Technology/E-Reader_Cleanup_Checklist.md)
 - [Gaming PC Setup Checklist](Technology/Gaming_PC_Setup_Checklist.md)
+- [Google Account Security Checklist](Technology/Google_Account_Security_Checklist.md)
+- [Google Calendar Setup Checklist](Technology/Google_Calendar_Setup_Checklist.md)
+- [Google Chrome Cleanup Checklist](Technology/Google_Chrome_Cleanup_Checklist.md)
+- [Google Chrome Setup Checklist](Technology/Google_Chrome_Setup_Checklist.md)
+- [Google Contacts Cleanup Checklist](Technology/Google_Contacts_Cleanup_Checklist.md)
+- [Google Drive Cleanup Checklist](Technology/Google_Drive_Cleanup_Checklist.md)
+- [Google Keep Cleanup Checklist](Technology/Google_Keep_Cleanup_Checklist.md)
+- [Google Maps Setup Checklist](Technology/Google_Maps_Setup_Checklist.md)
+- [Google Photos Cleanup Checklist](Technology/Google_Photos_Cleanup_Checklist.md)
 - [Laptop Setup Checklist](Technology/Laptop_Setup_Checklist.md)
 - [Lightweight Smartwatch Setup Checklist](Technology/Lightweight_Smartwatch_Setup_Checklist.md)
 - [Minimal PC Setup Checklist](Technology/Minimal_PC_Setup_Checklist.md)
@@ -98,6 +122,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
 - [Tablet Cleanup Checklist](Technology/Tablet_Cleanup_Checklist.md)
 - [Ubuntu Setup Checklist](Technology/Ubuntu_Setup_Checklist.md)
+- [WhatsApp Cleanup Checklist](Technology/WhatsApp_Cleanup_Checklist.md)
 - [WhatsApp Group Setup Checklist](Technology/WhatsApp_Group_Setup_Checklist.md)
 - [WhatsApp Settings Setup Checklist](Technology/WhatsApp_Settings_Setup_Checklist.md)
 - [Windows Setup Checklist](Technology/Windows_Setup_Checklist.md)
@@ -120,6 +145,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Email Cleanup Checklist](Work-School/Email_Cleanup_Checklist.md)
 - [End of School Year Checklist](Work-School/End_of_School_Year_Checklist.md)
 - [Exam Revision Checklist](Work-School/Exam_Revision_Checklist.md)
+- [Gmail Inbox Cleanup Checklist](Work-School/Gmail_Inbox_Cleanup_Checklist.md)
 - [Meeting or Conference Setup Checklist](Work-School/Meeting_or_Conference_Setup_Checklist.md)
 - [Work Desk Setup Checklist](Work-School/Work_Desk_Setup_Checklist.md)
 - [Work Office Setup Checklist](Work-School/Work_Office_Setup_Checklist.md)
