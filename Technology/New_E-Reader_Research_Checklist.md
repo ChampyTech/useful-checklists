@@ -2,20 +2,24 @@
 
 ↖️ [Return to the main file](../README.md)
 
-### Features to Compare
-- [ ] Screen size and resolution
-- [ ] Battery life
+### Display
+- [ ] Screen size (6”, 7”, 8”+)
+- [ ] E-Ink resolution (PPI)
+- [ ] Adjustable front light and warm light
+- [ ] Glare-free screen
+
+### Features
 - [ ] Storage capacity
-- [ ] Waterproofing
-- [ ] Adjustable lighting (warm/cold)
+- [ ] Note-taking or stylus support
+- [ ] Audiobook support (Audible, MP3)
+- [ ] Waterproofing (IP rating)
 
-### Ecosystem & Compatibility
-- [ ] Supported file formats (ePub, PDF, etc.)
-- [ ] Integration with libraries or stores
-- [ ] Availability of dictionary and translation tools
-- [ ] Note-taking or highlighting support
+### Ecosystem
+- [ ] Kindle, Kobo, PocketBook, or others
+- [ ] File format compatibility (EPUB, PDF, MOBI)
+- [ ] Library and store integration
 
-### Budget & Purchase
-- [ ] Compare prices online
-- [ ] Check warranty and return policy
-- [ ] Read reviews and user experiences
+### Price & Reviews
+- [ ] Compare models and deals
+- [ ] Long-term software update support
+- [ ] Warranty and replacement policy
