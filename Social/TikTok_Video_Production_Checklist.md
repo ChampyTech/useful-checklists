@@ -2,6 +2,7 @@
 
 ↖️ [Return to the main file](../README.md)
 
+### Pre-Production
 - [ ] Choose a clear and engaging video idea
 - [ ] Define the target audience
 - [ ] Plan the structure (Hook → Main Content → Call to Action)
@@ -15,10 +16,14 @@
 - [ ] Set the scene
   - [ ] Clean and relevant background
   - [ ] Proper framing and lighting
+
+### Production
 - [ ] Record the video
-  - [ ] Use trending sound if applicable
-  - [ ] Speak clearly and keep good energy
-  - [ ] Follow timing and transitions
+- [ ] Use trending sound if applicable
+- [ ] Speak clearly and keep good energy
+- [ ] Follow timing and transitions
+
+### Post-Production
 - [ ] Edit the video
   - [ ] Cut unnecessary parts
   - [ ] Add text or subtitles
