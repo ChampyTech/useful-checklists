@@ -1,4 +1,4 @@
-# ✅ New YouTube Channel Checklist
+# ✅ YouTube Channel Checklist
 
 ↖️ [Return to the main file](../README.md)
 
