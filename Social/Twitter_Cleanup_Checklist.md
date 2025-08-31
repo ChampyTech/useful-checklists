@@ -2,17 +2,18 @@
 
 ↖️ [Return to the main file](../README.md)
 
+### Profile
+- [ ] Update profile picture and header
+- [ ] Rewrite outdated bio
+- [ ] Check pinned tweet relevance
+
+### Content
+- [ ] Delete old or irrelevant tweets
+- [ ] Unpin outdated tweets
+- [ ] Review media uploads
+- [ ] Organize bookmarks
+
 ### Following
 - [ ] Unfollow inactive accounts
-- [ ] Remove spammy or negative profiles
-- [ ] Create lists to organize follows
-
-### Tweets
-- [ ] Delete old or irrelevant tweets
-- [ ] Clean up pinned tweet
-- [ ] Review media tab for outdated content
-
-### Settings
-- [ ] Adjust privacy and safety preferences
-- [ ] Review muted and blocked accounts
-- [ ] Turn off unnecessary notifications
+- [ ] Remove spam or bot followers
+- [ ] Curate lists for better feed control
