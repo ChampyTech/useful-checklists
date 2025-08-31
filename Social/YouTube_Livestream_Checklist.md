@@ -2,39 +2,25 @@
 
 ↖️ [Return to the main file](../README.md)
 
-- [ ] Choose livestream topic
-- [ ] Plan the structure
-  - [ ] Introduction
-  - [ ] Main points / segments
-  - [ ] Interaction with viewers
-  - [ ] Wrap-up / Outro
-- [ ] Schedule the stream on YouTube
-  - [ ] Add title and description
-  - [ ] Set thumbnail
-  - [ ] Choose date and time
-  - [ ] Set visibility (Public, Private, Unlisted)
-- [ ] Prepare equipment
-  - [ ] Camera / Webcam
-  - [ ] Microphone
-  - [ ] Lighting
-  - [ ] Stable internet connection
-- [ ] Set up streaming software (OBS, Streamlabs, etc.)
-  - [ ] Add scenes (camera, overlays, screen share, etc.)
-  - [ ] Configure audio levels
-  - [ ] Link YouTube stream key
-- [ ] Prepare any media or links to show
-- [ ] Do a test stream (optional)
-- [ ] Announce the stream in advance
-  - [ ] Social media / community post / Discord
-- [ ] Go live
-  - [ ] Welcome viewers
-  - [ ] Stick to the plan, but stay flexible
-  - [ ] Engage with the chat
-- [ ] End stream smoothly
-  - [ ] Thank viewers
-  - [ ] Mention next stream or video
-- [ ] Post-stream actions
-  - [ ] Check analytics
-  - [ ] Respond to comments
-  - [ ] Edit title/description if needed
-  - [ ] Add to playlist or feature on channel
+### Preparation
+- [ ] Choose stream topic and structure
+- [ ] Schedule livestream on YouTube
+- [ ] Prepare thumbnails and title
+- [ ] Test internet connection
+
+### Equipment
+- [ ] Check webcam and lighting
+- [ ] Test microphone and audio levels
+- [ ] Prepare overlays or background visuals
+- [ ] Have backup device ready
+
+### During Stream
+- [ ] Welcome viewers at the start
+- [ ] Interact with chat
+- [ ] Share links or resources if needed
+- [ ] Remind viewers to like/subscribe
+
+### Post-Stream
+- [ ] Save stream recording
+- [ ] Add description, tags, and timestamps
+- [ ] Respond to chat messages or comments
