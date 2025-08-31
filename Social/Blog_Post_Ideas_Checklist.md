@@ -3,21 +3,19 @@
 ↖️ [Return to the main file](../README.md)
 
 ### Tutorials & Guides
-- [ ] How-to articles
-- [ ] Step-by-step guides
-- [ ] Tool or software reviews
+- [ ] How-to articles on tools or apps
+- [ ] Step-by-step guides for projects
+- [ ] Video or infographic tutorials
+- [ ] Checklists or cheat sheets
 
-### Informative / Value
-- [ ] Listicles of tips or resources
-- [ ] Industry news summaries
-- [ ] Case studies or examples
+### Informative
+- [ ] Listicles of tips, hacks, or resources
+- [ ] Industry news summaries or commentary
+- [ ] Case studies or real-life examples
+- [ ] Myth-busting posts in your niche
 
-### Personal / Storytelling
-- [ ] Share personal experience or journey
-- [ ] Lessons learned in your niche
-- [ ] Interviews with experts
-
-### Engaging Content
-- [ ] Polls or surveys for readers
-- [ ] Debunk myths or misconceptions
-- [ ] Share challenges or experiments
+### Storytelling & Personal
+- [ ] Share personal experiences or lessons learned
+- [ ] Highlight challenges you overcame
+- [ ] Interview someone in your niche
+- [ ] Share behind-the-scenes of a project
