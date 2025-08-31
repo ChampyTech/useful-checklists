@@ -3,16 +3,18 @@
 ↖️ [Return to the main file](../README.md)
 
 ### Basics
-- [ ] Add a clear profile picture and header
-- [ ] Write a concise and engaging bio
-- [ ] Add location and website link
+- [ ] Add a clear profile picture
+- [ ] Write a short, engaging bio
+- [ ] Add location (optional but helpful)
+- [ ] Link to website or other socials
 
-### Content
-- [ ] Pin most important tweet
-- [ ] Organize tweets with threads
-- [ ] Use hashtags strategically
+### Branding
+- [ ] Choose a matching header image
+- [ ] Keep consistent username/handle
+- [ ] Pin a representative tweet
+- [ ] Use a clear display name
 
-### Engagement
-- [ ] Reply to comments and mentions
-- [ ] Retweet or like relevant content
-- [ ] Follow accounts relevant to interests
+### Activity
+- [ ] Follow relevant accounts
+- [ ] Retweet and engage regularly
+- [ ] Keep profile updated
