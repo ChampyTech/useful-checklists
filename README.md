@@ -75,8 +75,10 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Good Sleep Checklist](Life/Good_Sleep_Checklist.md)
 - [Healthy Eating Checklist](Life/Healthy_Eating_Checklist.md)
 - [Healthy Living Checklist](Life/Healthy_Living_Checklist.md)
+- [Hobby Ideas Checklist](Life/Hobby_Ideas_Checklist.md)
 - [Meditation Checklist](Life/Meditation_Checklist.md)
 - [New House Checklist](Life/New_House_Checklist.md)
+- [Skill Building Ideas Checklist](Life/Skill_Building_Ideas_Checklist.md)
 - [Weekly Review Checklist](Life/Weekly_Review_Checklist.md)
 
 ### Miscellaneous
@@ -111,6 +113,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Wallet App Cleanup Checklist](Miscellaneous/Wallet_App_Cleanup_Checklist.md)
 - [Wallet App Setup Checklist](Miscellaneous/Wallet_App_Setup_Checklist.md)
 - [Wedding Planning Checklist](Miscellaneous/Wedding_Planning_Checklist.md)
+- [Weekend Activity Ideas Checklist](Miscellaneous/Weekend_Activity_Ideas_Checklist.md)
 
 ### Music
 
@@ -289,16 +292,17 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [iPhone Cleanup Checklist](Technology/iPhone_Cleanup_Checklist.md)
 - [iPhone Setup Checklist](Technology/iPhone_Setup_Checklist.md)
 
-### Travelling
+### Travel
 
-- [Camping Checklist](Travelling/Camping_Checklist.md)
-- [Day at the Beach Checklist](Travelling/Day_at_the_Beach_Checklist.md)
-- [Day at the Lake Checklist](Travelling/Day_at_the_Lake_Checklist.md)
-- [Day in the Hills Checklist](Travelling/Day_in_the_Hills_Checklist.md)
-- [Day in the Mountains Checklist](Travelling/Day_in_the_Mountains_Checklist.md)
-- [Picnic Checklist](Travelling/Picnic_Checklist.md)
-- [Travel Packing Checklist](Travelling/Travel_Packing_Checklist.md)
-- [Trip Packing Checklist](Travelling/Trip_Packing_Checklist.md)
+- [Camping Checklist](Travel/Camping_Checklist.md)
+- [Day at the Beach Checklist](Travel/Day_at_the_Beach_Checklist.md)
+- [Day at the Lake Checklist](Travel/Day_at_the_Lake_Checklist.md)
+- [Day in the Hills Checklist](Travel/Day_in_the_Hills_Checklist.md)
+- [Day in the Mountains Checklist](Travel/Day_in_the_Mountains_Checklist.md)
+- [Picnic Checklist](Travel/Picnic_Checklist.md)
+- [Travel Ideas Checklist](Travel/Travel_Ideas_Checklist.md)
+- [Travel Packing Checklist](Travel/Travel_Packing_Checklist.md)
+- [Trip Packing Checklist](Travel/Trip_Packing_Checklist.md)
 
 ### Work-School
 
