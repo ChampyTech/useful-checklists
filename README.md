@@ -44,6 +44,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Bathroom Setup Checklist](Home/Bathroom_Setup_Checklist.md)
 - [Bedroom Cleanup Checklist](Home/Bedroom_Cleanup_Checklist.md)
 - [Bedroom Setup Checklist](Home/Bedroom_Setup_Checklist.md)
+- [Car Cleaning Checklist](Home/Car_Cleaning_Checklist.md)
 - [Car Maintenance Checklist](Home/Car_Maintenance_Checklist.md)
 - [Dining Room Cleanup Checklist](Home/Dining_Room_Cleanup_Checklist.md)
 - [Dining Room Setup Checklist](Home/Dining_Room_Setup_Checklist.md)
