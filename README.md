@@ -44,6 +44,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Bathroom Setup Checklist](Home/Bathroom_Setup_Checklist.md)
 - [Bedroom Cleanup Checklist](Home/Bedroom_Cleanup_Checklist.md)
 - [Bedroom Setup Checklist](Home/Bedroom_Setup_Checklist.md)
+- [Car Cleaning Checklist](Home/Car_Cleaning_Checklist.md)
 - [Car Maintenance Checklist](Home/Car_Maintenance_Checklist.md)
 - [Dining Room Cleanup Checklist](Home/Dining_Room_Cleanup_Checklist.md)
 - [Dining Room Setup Checklist](Home/Dining_Room_Setup_Checklist.md)
@@ -228,6 +229,9 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 
 ### Technology
 
+- [Apple Watch Cleanup](Technology/Apple_Watch_Cleanup.md)
+- [Apple Watch Research](Technology/Apple_Watch_Research.md)
+- [Apple Watch Setup](Technology/Apple_Watch_Setup.md)
 - [Browser Cleanup Checklist](Technology/Browser_Cleanup_Checklist.md)
 - [Browser Setup Checklist](Technology/Browser_Setup_Checklist.md)
 - [Content Creator PC Setup Checklist](Technology/Content_Creator_PC_Setup_Checklist.md)
@@ -280,6 +284,9 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Phone Cleanup Complete Checklist](Technology/Phone_Cleanup_Complete_Checklist.md)
 - [Phone Gallery Cleanup Checklist](Technology/Phone_Gallery_Cleanup_Checklist.md)
 - [Photos Cleanup Checklist](Technology/Photos_Cleanup_Checklist.md)
+- [Printer Cleanup](Technology/Printer_Cleanup.md)
+- [Printer Research](Technology/Printer_Research.md)
+- [Printer Setup](Technology/Printer_Setup.md)
 - [Samsung Phone Setup Checklist](Technology/Samsung_Phone_Setup_Checklist.md)
 - [Smartwatch Setup Checklist](Technology/Smartwatch_Setup_Checklist.md)
 - [Student Laptop Setup Checklist](Technology/Student_Laptop_Setup_Checklist.md)
@@ -299,6 +306,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Day at the Lake Checklist](Travel/Day_at_the_Lake_Checklist.md)
 - [Day in the Hills Checklist](Travel/Day_in_the_Hills_Checklist.md)
 - [Day in the Mountains Checklist](Travel/Day_in_the_Mountains_Checklist.md)
+- [Holiday in Venice](Travel/Holiday_in_Venice.md)
 - [Picnic Checklist](Travel/Picnic_Checklist.md)
 - [Travel Ideas Checklist](Travel/Travel_Ideas_Checklist.md)
 - [Travel Packing Checklist](Travel/Travel_Packing_Checklist.md)
@@ -307,6 +315,7 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 ### Work-School
 
 - [Back to School Checklist](Work-School/Back_to_School_Checklist.md)
+- [Brainstorming](Work-School/Brainstorming.md)
 - [Email Cleanup Checklist](Work-School/Email_Cleanup_Checklist.md)
 - [Email Setup Checklist](Work-School/Email_Setup_Checklist.md)
 - [End of School Year Checklist](Work-School/End_of_School_Year_Checklist.md)
@@ -317,8 +326,19 @@ A curated list of useful checklists for everyday life, productivity, travel, hea
 - [Homework Tracking Checklist](Work-School/Homework_Tracking_Checklist.md)
 - [In-Person Work Meeting Checklist](Work-School/In-Person_Work_Meeting_Checklist.md)
 - [Meeting or Conference Setup Checklist](Work-School/Meeting_or_Conference_Setup_Checklist.md)
+- [Microsoft Office Setup](Work-School/Microsoft_Office_Setup.md)
+- [Notion Complete Cleanup](Work-School/Notion_Complete_Cleanup.md)
+- [Notion Personal Dashboard Cleanup](Work-School/Notion_Personal_Dashboard_Cleanup.md)
+- [Notion School Dashboard Cleanup](Work-School/Notion_School_Dashboard_Cleanup.md)
+- [Notion School Dashboard Setup](Work-School/Notion_School_Dashboard_Setup.md)
+- [Notion Team Dashboard Cleanup](Work-School/Notion_Team_Dashboard_Cleanup.md)
+- [Notion Team Dashboard Setup](Work-School/Notion_Team_Dashboard_Setup.md)
+- [Notion Work Dashboard](Work-School/Notion_Work_Dashboard.md)
+- [Notion Work Dashboard Cleanup](Work-School/Notion_Work_Dashboard_Cleanup.md)
 - [Online Work Meeting Checklist](Work-School/Online_Work_Meeting_Checklist.md)
 - [Portfolio Website Checklist](Work-School/Portfolio_Website_Checklist.md)
+- [Presentation Slides](Work-School/Presentation_Slides.md)
+- [Productive Work Environment](Work-School/Productive_Work_Environment.md)
 - [Resume Checklist](Work-School/Resume_Checklist.md)
 - [School Backpack Checklist](Work-School/School_Backpack_Checklist.md)
 - [School Backpack Cleanup Checklist](Work-School/School_Backpack_Cleanup_Checklist.md)
@@ -352,7 +372,8 @@ Check the [CONTRIBUTING.md](CONTRIBUTING.md) file and open a pull request or an 
 
 ## ⚠️ Disclaimer
 
-By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any organizations, professionals, or experts in the fields covered by the checklists mentioned. Although attempts are made to ensure the checklists are comprehensive and current, this collection does not guarantee the accuracy, completeness, or suitability of any checklist for your specific needs, circumstances, or requirements. Industry practices, regulations, standards, legal requirements, and best practices evolve continuously and vary by jurisdiction, which are outside the control of this project. Users implement and follow checklists at their own risk and discretion. The author of this repository does not assume responsibility for any issues, damages, or consequences that may arise from using any of the provided checklists, including but not limited to project failures, security vulnerabilities, legal non-compliance, missed critical steps, inadequate coverage, professional liability, financial losses, or regulatory violations. Always adapt checklists to your specific context, consult with relevant professionals and experts, verify current regulations and standards, perform thorough testing and validation, and use professional judgment when implementing any checklist in critical applications.
+By utilizing this repository, you acknowledge that this project is not associated with, sponsored by, or endorsed by any organizations, professionals, or experts in the fields covered by the checklists mentioned.
+Always adapt checklists to your specific context and verify current regulations and standards.
 
 ## 🎫 License
 
